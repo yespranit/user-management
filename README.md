@@ -14,10 +14,6 @@ This repository contains a simple and automated bash script to create multiple l
 -delete user1 -> user8 along with their home directories.
 
 # #How to run script
-- give execute permission 
-   chmod +x autouseradd.sh
-   chmod +x autouserdel.sh
--  run the script
-   ./autouseradd.sh
-    ./autouserdel.sh 
+- give execute permission                                                                                                                                                                         chmod +x autouseradd.sh                                                                                                                                                                         chmod +x autouserdel.sh
+-  run the script                                                                                                                                                                             ./autouseradd.sh                                                                                                                                                                             ./autouserdel.sh 
   
