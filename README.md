@@ -10,7 +10,7 @@ This repository contains a simple and automated bash script to create multiple l
 - sets a default password 'redhat'
 - displays the last 10 entries of /etc/passwd for verification
 
-# autouserdel.sh
+# 2. autouserdel.sh
 -delete user1 -> user8 along with their home directories.
 
 # #How to run script
